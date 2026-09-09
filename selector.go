@@ -8,7 +8,7 @@ import (
 
 	"github.com/google/jsonschema-go/jsonschema"
 	"github.com/mark3labs/mcp-go/mcp"
-	"github.com/onexstack/cobrax/internal/bridge/flags"
+	"github.com/feizaonet/cobrax/internal/bridge/flags"
 	"github.com/spf13/cobra"
 	"github.com/spf13/pflag"
 )

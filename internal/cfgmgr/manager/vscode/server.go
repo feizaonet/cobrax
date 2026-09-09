@@ -1,6 +1,6 @@
 package vscode
 
-import "github.com/onexstack/cobrax/internal/cfgmgr/model"
+import "github.com/feizaonet/cobrax/internal/cfgmgr/model"
 
 // Server represents an MCP server configuration entry for VSCode.
 type Server = model.Server

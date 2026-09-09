@@ -1,4 +1,4 @@
-module github.com/onexstack/cobrax
+module github.com/feizaonet/cobrax
 
 go 1.25.5
 

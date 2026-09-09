@@ -6,8 +6,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/onexstack/cobrax"
-	"github.com/onexstack/cobrax/internal/cfgmgr/manager/claude"
+	"github.com/feizaonet/cobrax"
+	"github.com/feizaonet/cobrax/internal/cfgmgr/manager/claude"
 	"github.com/spf13/cobra"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

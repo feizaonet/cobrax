@@ -9,7 +9,7 @@ cobrax automatically converts your Cobra commands into MCP tools, and provides C
 ### Install
 
 ```bash
-go get github.com/onexstack/cobrax
+go get github.com/feizaonet/cobrax
 ```
 
 ### Add to your CLI
@@ -19,7 +19,7 @@ package main
 
 import (
     "os"
-    "github.com/onexstack/cobrax"
+    "github.com/feizaonet/cobrax"
 )
 
 func main() {

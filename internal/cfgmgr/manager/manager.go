@@ -9,10 +9,10 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/onexstack/cobrax/internal/cfgmgr/manager/claude"
-	"github.com/onexstack/cobrax/internal/cfgmgr/manager/cursor"
-	"github.com/onexstack/cobrax/internal/cfgmgr/manager/vscode"
-	"github.com/onexstack/cobrax/internal/cfgmgr/model"
+	"github.com/feizaonet/cobrax/internal/cfgmgr/manager/claude"
+	"github.com/feizaonet/cobrax/internal/cfgmgr/manager/cursor"
+	"github.com/feizaonet/cobrax/internal/cfgmgr/manager/vscode"
+	"github.com/feizaonet/cobrax/internal/cfgmgr/model"
 )
 
 // Config represents MCP server configuration that can be managed.

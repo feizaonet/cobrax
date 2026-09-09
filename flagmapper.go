@@ -1,7 +1,7 @@
 package cobrax
 
 import (
-	"github.com/onexstack/cobrax/internal/bridge/flags"
+	"github.com/feizaonet/cobrax/internal/bridge/flags"
 )
 
 // FlagSchemaMapper maps a pflag.Flag to a jsonschema.Schema for a custom flag

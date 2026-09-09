@@ -1,7 +1,7 @@
 package cobrax
 
 import (
-	"github.com/onexstack/cobrax/internal/cfgmgr/cmd/editor"
+	"github.com/feizaonet/cobrax/internal/cfgmgr/cmd/editor"
 	"github.com/spf13/cobra"
 )
 

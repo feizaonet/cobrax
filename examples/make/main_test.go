@@ -3,7 +3,7 @@ package main
 import (
 	"testing"
 
-	"github.com/onexstack/cobrax/test"
+	"github.com/feizaonet/cobrax/test"
 )
 
 func TestTools(t *testing.T) {

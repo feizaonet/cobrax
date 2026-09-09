@@ -18,7 +18,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/onexstack/cobrax.git
+   git clone https://github.com/feizaonet/cobrax.git
    cd cobrax
    ```
 

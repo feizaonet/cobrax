@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/onexstack/cobrax/internal/cfgmgr/manager"
-	"github.com/onexstack/cobrax/internal/cfgmgr/model"
+	"github.com/feizaonet/cobrax/internal/cfgmgr/manager"
+	"github.com/feizaonet/cobrax/internal/cfgmgr/model"
 	"github.com/spf13/cobra"
 )
 

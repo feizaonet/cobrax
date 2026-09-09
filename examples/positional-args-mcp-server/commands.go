@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/onexstack/cobrax"
+	"github.com/feizaonet/cobrax"
 	"github.com/spf13/cobra"
 )
 

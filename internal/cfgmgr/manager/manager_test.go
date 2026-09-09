@@ -6,9 +6,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/onexstack/cobrax/internal/cfgmgr/manager/claude"
-	"github.com/onexstack/cobrax/internal/cfgmgr/manager/cursor"
-	"github.com/onexstack/cobrax/internal/cfgmgr/manager/vscode"
+	"github.com/feizaonet/cobrax/internal/cfgmgr/manager/claude"
+	"github.com/feizaonet/cobrax/internal/cfgmgr/manager/cursor"
+	"github.com/feizaonet/cobrax/internal/cfgmgr/manager/vscode"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

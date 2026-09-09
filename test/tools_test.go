@@ -3,7 +3,7 @@ package test
 import (
 	"testing"
 
-	"github.com/onexstack/cobrax"
+	"github.com/feizaonet/cobrax"
 	"github.com/spf13/cobra"
 	"github.com/stretchr/testify/assert"
 )

@@ -33,7 +33,7 @@
 //	import (
 //	    "context"
 //	    "log"
-//	    "github.com/onexstack/cobrax"
+//	    "github.com/feizaonet/cobrax"
 //	)
 //
 //	func main() {
@@ -70,7 +70,7 @@
 //
 //	import (
 //	    "os"
-//	    "github.com/onexstack/cobrax"
+//	    "github.com/feizaonet/cobrax"
 //	)
 //
 //	func main() {

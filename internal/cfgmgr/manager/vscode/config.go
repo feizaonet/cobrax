@@ -1,6 +1,6 @@
 package vscode
 
-import "github.com/onexstack/cobrax/internal/cfgmgr/model"
+import "github.com/feizaonet/cobrax/internal/cfgmgr/model"
 
 // Config represents the structure of VSCode's MCP configuration file.
 type Config struct {

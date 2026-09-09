@@ -1,11 +1,11 @@
-module github.com/onexstack/cobrax/examples/make
+module github.com/feizaonet/cobrax/examples/make
 
 go 1.24.6
 
-replace github.com/onexstack/cobrax => ../../
+replace github.com/feizaonet/cobrax => ../../
 
 require (
-	github.com/onexstack/cobrax v1.1.3
+	github.com/feizaonet/cobrax v1.1.3
 	github.com/spf13/cobra v1.10.2
 )
 
